@@ -57,7 +57,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 * [`dojo`](https://github.com/dojoengine/dojo) ⭐ 477 | 🐛 19 | 🌐 Rust | 📅 2026-05-06 – A full stack toolchain for developing onchain games in Cairo
 * [`kakarot-ssj`](https://github.com/sayajin-labs/kakarot-ssj) ⚠️ Archived – Kakarot ZK-EVM in Cairo 1.0
-* [`Realms: Eternum`](https://github.com/BibliothecaDAO/eternum) ⭐ 91 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-12 – Realms Autonomous World built with [`dojo`](https://github.com/dojoengine/dojo) ⭐ 477 | 🐛 19 | 🌐 Rust | 📅 2026-05-06
+* [`Realms: Eternum`](https://github.com/BibliothecaDAO/eternum) ⭐ 91 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-13 – Realms Autonomous World built with [`dojo`](https://github.com/dojoengine/dojo) ⭐ 477 | 🐛 19 | 🌐 Rust | 📅 2026-05-06
 * [`Loot Survivor`](https://github.com/BibliothecaDAO/loot-survivor) ⭐ 89 | 🐛 3 | 🌐 Cairo | 📅 2024-08-07 - Roguelike single felt onchain game
 * [`InstaSwap`](https://github.com/BibliothecaDAO/InstaSwap) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-09 – Decentralized token swap protocol for ERC-1155 tokens on Starknet.
 * [`starknet-commit-reveal`](https://github.com/gaetbout/starknet-commit-reveal) ⭐ 18 | 🐛 0 | 🌐 Cairo | 📅 2023-11-01 – Commit-reveal implementation

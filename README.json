@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T03:38:06Z",
+            "last_commit": "2026-08-13T20:57:13Z",
             "owner": "starkware-libs",
             "repo": "cairo",
             "stars": 1900
@@ -275,7 +275,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T07:34:01Z",
+            "last_commit": "2026-08-13T20:22:18Z",
             "owner": "BibliothecaDAO",
             "repo": "eternum",
             "stars": 91
@@ -654,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:55:56.503Z",
+    "last_updated": "2026-08-13T21:55:40.250Z",
     "original_repository": "auditless/awesome-cairo",
     "original_repository_sha": "71e8081c80da93bd4c8d1bdc50111db20b712bf0",
     "enhanced_repository": "enhansome/enhansome-cairo",
