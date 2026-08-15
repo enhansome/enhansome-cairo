@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T21:32:33Z",
+            "last_commit": "2026-08-15T20:02:27Z",
             "owner": "starkware-libs",
             "repo": "cairo",
-            "stars": 1899
+            "stars": 1900
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T12:02:28Z",
             "owner": "OpenZeppelin",
             "repo": "cairo-contracts",
-            "stars": 910
+            "stars": 911
           }
         },
         {
@@ -275,7 +275,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T21:29:04Z",
+            "last_commit": "2026-08-15T16:18:35Z",
             "owner": "BibliothecaDAO",
             "repo": "eternum",
             "stars": 91
@@ -504,7 +504,7 @@
             "last_commit": "2026-08-08T06:11:31Z",
             "owner": "shramee",
             "repo": "starklings",
-            "stars": 472
+            "stars": 473
           }
         },
         {
@@ -518,7 +518,7 @@
             "last_commit": "2026-08-03T12:14:41Z",
             "owner": "cairo-book",
             "repo": "cairo-book",
-            "stars": 275
+            "stars": 276
           }
         },
         {
@@ -532,7 +532,7 @@
             "last_commit": "2023-03-30T09:39:49Z",
             "owner": "starknet-edu",
             "repo": "deploy-cairo1-demo",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2023-07-08T02:04:19Z",
             "owner": "horuslabsio",
             "repo": "Cairo1.0",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -654,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:33:29.454Z",
+    "last_updated": "2026-08-15T21:29:03.656Z",
     "original_repository": "auditless/awesome-cairo",
     "original_repository_sha": "71e8081c80da93bd4c8d1bdc50111db20b712bf0",
     "enhanced_repository": "enhansome/enhansome-cairo",
