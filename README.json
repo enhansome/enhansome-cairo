@@ -12,7 +12,7 @@
             "archived": false,
             "id": 494059063,
             "language": "Rust",
-            "last_commit": "2026-08-19T20:57:19Z",
+            "last_commit": "2026-08-20T21:32:53Z",
             "owner": "starkware-libs",
             "repo": "cairo",
             "stars": 1902
@@ -60,7 +60,7 @@
             "last_commit": "2025-03-03T09:42:54Z",
             "owner": "gizatechxyz",
             "repo": "orion",
-            "stars": 176
+            "stars": 175
           }
         },
         {
@@ -96,21 +96,6 @@
         {
           "node_type": "item",
           "title": "",
-          "description": "Typesafe primitives for Cairo 1.0 with a focus on DeFi protocols",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 611733702,
-            "language": "Rust",
-            "last_commit": "2023-06-12T10:08:15Z",
-            "owner": "auditless",
-            "repo": "suna",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
           "description": "An early ERC721 implementation",
           "children": [],
           "repo_info": {
@@ -120,6 +105,21 @@
             "last_commit": "2023-12-01T06:11:26Z",
             "owner": "reddio-com",
             "repo": "cairo",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Typesafe primitives for Cairo 1.0 with a focus on DeFi protocols",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 611733702,
+            "language": "Rust",
+            "last_commit": "2023-06-12T10:08:15Z",
+            "owner": "auditless",
+            "repo": "suna",
             "stars": 18
           }
         },
@@ -282,7 +282,7 @@
             "last_commit": "2025-01-08T09:16:49Z",
             "owner": "kkrt-labs",
             "repo": "kakarot-ssj",
-            "stars": 133
+            "stars": 132
           }
         },
         {
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 600932680,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T21:22:26Z",
+            "last_commit": "2026-08-20T21:25:37Z",
             "owner": "BibliothecaDAO",
             "repo": "eternum",
             "stars": 91
@@ -675,7 +675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:33:43.681Z",
+    "last_updated": "2026-08-20T21:35:41.307Z",
     "original_repository": "auditless/awesome-cairo",
     "original_repository_id": 607753480,
     "original_repository_sha": "71e8081c80da93bd4c8d1bdc50111db20b712bf0",

@@ -25,14 +25,14 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## Libraries
 
-* [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) ⭐ 1,902 | 🐛 213 | 🌐 Rust | 📅 2026-08-19 - Built in Cairo 1.0 standard library
+* [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) ⭐ 1,902 | 🐛 209 | 🌐 Rust | 📅 2026-08-20 - Built in Cairo 1.0 standard library
 * [`cairo-contracts`](https://github.com/OpenZeppelin/cairo-contracts/tree/cairo-1) ⭐ 911 | 🐛 58 | 🌐 Rust | 📅 2026-08-19 – OpenZeppelin's cairo1 development branch
 * [`alexandria`](https://github.com/keep-starknet-strange/alexandria) ⭐ 265 | 🐛 0 | 🌐 Cairo | 📅 2026-03-05 – Community maintained standard library for Cairo 1.0
 * [`orion`](https://github.com/gizatechxyz/orion) ⚠️ Archived - library for verifiable ML inference in Cairo 1.0
 * [`cubit`](https://github.com/influenceth/cubit) ⭐ 41 | 🐛 6 | 🌐 Rust | 📅 2026-07-16 – A fixed point math library in 64.64 representation built for Cairo 1.0
 * [`cairo_ml`](https://github.com/raphaelDkhn/cairo_ml) ⚠️ Archived – Build neural network models in Cairo 1.0 to perform inference
-* [`suna`](https://github.com/auditless/suna) ⭐ 19 | 🐛 4 | 🌐 Rust | 📅 2023-06-12 – Typesafe primitives for Cairo 1.0 with a focus on DeFi protocols
 * [`erc721.cairo`](https://github.com/reddio-com/cairo/blob/main/token/ERC721/erc721.cairo) ⭐ 18 | 🐛 0 | 🌐 Cairo | 📅 2023-12-01 – An early ERC721 implementation
+* [`suna`](https://github.com/auditless/suna) ⭐ 18 | 🐛 4 | 🌐 Rust | 📅 2023-06-12 – Typesafe primitives for Cairo 1.0 with a focus on DeFi protocols
 * [`arcade-accounts`](https://github.com/BibliothecaDAO/arcade-account) ⭐ 17 | 🐛 1 | 🌐 Cairo | 📅 2024-02-17 - Starknet Accounts with fine grain permissions for use in onchain games
 * [`neural-network-cairo`](https://github.com/franalgaba/neural-network-cairo) ⭐ 10 | 🐛 0 | 🌐 Rust | 📅 2023-04-01 – Neural Network for MNIST in Cairo 1.0
 * [`graffiti`](https://github.com/milancermak/graffiti/) ⭐ 8 | 🐛 0 | 🌐 Cairo | 📅 2024-01-27 - A Cairo library for building XML based documents
@@ -57,7 +57,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 * [`dojo`](https://github.com/dojoengine/dojo) ⭐ 477 | 🐛 19 | 🌐 Rust | 📅 2026-05-06 – A full stack toolchain for developing onchain games in Cairo
 * [`kakarot-ssj`](https://github.com/sayajin-labs/kakarot-ssj) ⚠️ Archived – Kakarot ZK-EVM in Cairo 1.0
-* [`Realms: Eternum`](https://github.com/BibliothecaDAO/eternum) ⭐ 91 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-19 – Realms Autonomous World built with [`dojo`](https://github.com/dojoengine/dojo) ⭐ 477 | 🐛 19 | 🌐 Rust | 📅 2026-05-06
+* [`Realms: Eternum`](https://github.com/BibliothecaDAO/eternum) ⭐ 91 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-20 – Realms Autonomous World built with [`dojo`](https://github.com/dojoengine/dojo) ⭐ 477 | 🐛 19 | 🌐 Rust | 📅 2026-05-06
 * [`Loot Survivor`](https://github.com/BibliothecaDAO/loot-survivor) ⭐ 89 | 🐛 3 | 🌐 Cairo | 📅 2024-08-07 - Roguelike single felt onchain game
 * [`InstaSwap`](https://github.com/BibliothecaDAO/InstaSwap) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-09 – Decentralized token swap protocol for ERC-1155 tokens on Starknet.
 * [`starknet-commit-reveal`](https://github.com/gaetbout/starknet-commit-reveal) ⭐ 18 | 🐛 0 | 🌐 Cairo | 📅 2023-11-01 – Commit-reveal implementation
@@ -73,7 +73,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## References
 
-* [`starkware-libs/cairo/docs`](https://github.com/starkware-libs/cairo/tree/main/docs/reference) ⭐ 1,902 | 🐛 213 | 🌐 Rust | 📅 2026-08-19 – Official Cairo 1.0 reference
+* [`starkware-libs/cairo/docs`](https://github.com/starkware-libs/cairo/tree/main/docs/reference) ⭐ 1,902 | 🐛 209 | 🌐 Rust | 📅 2026-08-20 – Official Cairo 1.0 reference
 
 **[back to top](#contents)**
 
@@ -135,4 +135,4 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
