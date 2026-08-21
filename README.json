@@ -12,7 +12,7 @@
             "archived": false,
             "id": 494059063,
             "language": "Rust",
-            "last_commit": "2026-08-20T21:32:53Z",
+            "last_commit": "2026-08-21T19:52:26Z",
             "owner": "starkware-libs",
             "repo": "cairo",
             "stars": 1902
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T11:37:16Z",
             "owner": "OpenZeppelin",
             "repo": "cairo-contracts",
-            "stars": 911
+            "stars": 910
           }
         },
         {
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 600932680,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T21:25:37Z",
+            "last_commit": "2026-08-21T21:20:59Z",
             "owner": "BibliothecaDAO",
             "repo": "eternum",
             "stars": 91
@@ -519,7 +519,7 @@
             "last_commit": "2026-08-08T06:11:31Z",
             "owner": "shramee",
             "repo": "starklings",
-            "stars": 473
+            "stars": 472
           }
         },
         {
@@ -675,7 +675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:35:41.307Z",
+    "last_updated": "2026-08-21T21:32:25.039Z",
     "original_repository": "auditless/awesome-cairo",
     "original_repository_id": 607753480,
     "original_repository_sha": "71e8081c80da93bd4c8d1bdc50111db20b712bf0",
