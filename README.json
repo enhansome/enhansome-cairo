@@ -5,22 +5,22 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "cairo",
           "description": "Built in Cairo 1.0 standard library",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 494059063,
             "language": "Rust",
-            "last_commit": "2026-08-23T21:07:38Z",
+            "last_commit": "2026-08-24T11:31:20Z",
             "owner": "starkware-libs",
             "repo": "cairo",
-            "stars": 1902
+            "stars": 1901
           }
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cairo-contracts",
           "description": "OpenZeppelin's cairo1 development branch",
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "alexandria",
           "description": "Community maintained standard library for Cairo 1.0",
           "children": [],
           "repo_info": {
@@ -50,7 +50,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "orion",
           "description": "library for verifiable ML inference in Cairo 1.0",
           "children": [],
           "repo_info": {
@@ -65,7 +65,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cubit",
           "description": "A fixed point math library in 64.64 representation built for Cairo 1.0",
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cairo_ml",
           "description": "Build neural network models in Cairo 1.0 to perform inference",
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cairo",
           "description": "An early ERC721 implementation",
           "children": [],
           "repo_info": {
@@ -110,7 +110,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "suna",
           "description": "Typesafe primitives for Cairo 1.0 with a focus on DeFi protocols",
           "children": [],
           "repo_info": {
@@ -125,7 +125,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "arcade-account",
           "description": "Starknet Accounts with fine grain permissions for use in onchain games",
           "children": [],
           "repo_info": {
@@ -140,7 +140,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "neural-network-cairo",
           "description": "Neural Network for MNIST in Cairo 1.0",
           "children": [],
           "repo_info": {
@@ -155,7 +155,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "graffiti",
           "description": "A Cairo library for building XML based documents",
           "children": [],
           "repo_info": {
@@ -170,7 +170,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cairo-fixed-point-arithmetic",
           "description": "Another Cairo 1 fixed point math library in 123.128 representation with storage packing implementation.",
           "children": [],
           "repo_info": {
@@ -191,7 +191,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "ziggy-starkdust",
           "description": "Cairo VM in Zig.",
           "children": [],
           "repo_info": {
@@ -206,7 +206,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cairo-vm-go",
           "description": "A virtual machine for Cairo written in Go.",
           "children": [],
           "repo_info": {
@@ -221,7 +221,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cairo-vm-ts",
           "description": "A typescript implementation of the Cairo VM.",
           "children": [],
           "repo_info": {
@@ -236,7 +236,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cairo-vm",
           "description": "cairo-vm is a Rust implementation of the Cairo VM.",
           "children": [],
           "repo_info": {
@@ -257,7 +257,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "dojo",
           "description": "A full stack toolchain for developing onchain games in Cairo",
           "children": [],
           "repo_info": {
@@ -272,7 +272,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "kakarot-ssj",
           "description": "Kakarot ZK-EVM in Cairo 1.0",
           "children": [],
           "repo_info": {
@@ -287,14 +287,14 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "eternum",
           "description": "Realms Autonomous World built with",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 600932680,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:18:32Z",
+            "last_commit": "2026-08-24T14:37:27Z",
             "owner": "BibliothecaDAO",
             "repo": "eternum",
             "stars": 91
@@ -302,7 +302,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "loot-survivor",
           "description": "Roguelike single felt onchain game",
           "children": [],
           "repo_info": {
@@ -317,7 +317,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "InstaSwap",
           "description": "Decentralized token swap protocol for ERC-1155 tokens on Starknet.",
           "children": [],
           "repo_info": {
@@ -332,7 +332,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "starknet-commit-reveal",
           "description": "Commit-reveal implementation",
           "children": [],
           "repo_info": {
@@ -347,7 +347,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "kass",
           "description": "L1 <-> L2 Starknet ERC1155 Bridge",
           "children": [],
           "repo_info": {
@@ -362,7 +362,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "Cairo1.0_by_Examples",
           "description": "Cairo 1.0 examples",
           "children": [],
           "repo_info": {
@@ -377,7 +377,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "RockPaperScissors-Cairo",
           "description": "Commit-reveal based Rock-Paper-Scissors",
           "children": [],
           "repo_info": {
@@ -392,7 +392,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "2wrds_cntrcts",
           "description": "2wrds project",
           "children": [],
           "repo_info": {
@@ -413,7 +413,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "starknet-erc721",
           "description": "Learn how to deploy and customize an ERC721 token on StarkNet",
           "children": [],
           "repo_info": {
@@ -428,7 +428,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cairo-template",
           "description": "A minimal template for building smart contracts with Cairo 1.0",
           "children": [],
           "repo_info": {
@@ -443,7 +443,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "starknet-erc20",
           "description": "Learn how to deploy and customize an ERC20 token on StarkNet",
           "children": [],
           "repo_info": {
@@ -458,7 +458,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cairo1-template",
           "description": "A template to get you started with Cairo 1",
           "children": [],
           "repo_info": {
@@ -473,7 +473,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "starknet-build",
           "description": "ArgentX Cairo template",
           "children": [],
           "repo_info": {
@@ -488,7 +488,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cairo1-mocha",
           "description": "This project aims to provide a simple way of testing your contracts using Mocha and StarknetJS",
           "children": [],
           "repo_info": {
@@ -509,7 +509,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "starklings",
           "description": "An interactive tutorial to get you up and running with Cairo and Starknet",
           "children": [],
           "repo_info": {
@@ -539,7 +539,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "deploy-cairo1-demo",
           "description": "Official StarkWare tutorial for deploying a Cairo 1 contract",
           "children": [],
           "repo_info": {
@@ -554,7 +554,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "Cairo1.0",
           "description": "Mini Cairo 1.0 tutorial by Starknet Africa",
           "children": [],
           "repo_info": {
@@ -569,7 +569,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "0to1CairoDemo",
           "description": "Steps to upgrade from cairo 0 upgradeable contract to cairo 1 upgradeable contract",
           "children": [],
           "repo_info": {
@@ -584,7 +584,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "HERDAO-Cairo",
           "description": "First smart contracts with Cairo and HER DAO",
           "children": [],
           "repo_info": {
@@ -599,7 +599,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "starknet-accounts-cairo1",
           "description": "Starknet account abstraction workshop",
           "children": [],
           "repo_info": {
@@ -637,7 +637,29 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "awesome-starknet",
+              "description": "A curated list of awesome Starknet resources, libraries, tools and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431089531,
+                "language": null,
+                "last_commit": "2025-01-06T14:19:12Z",
+                "owner": "keep-starknet-strange",
+                "repo": "awesome-starknet",
+                "stars": 1551
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Starknet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cairo-goldmine",
               "description": "A comprehensive, annotated list of repositories of the Starknet ecosystem",
               "children": [],
               "repo_info": {
@@ -652,7 +674,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cairo-resources-list",
               "description": "A curated list of awesome Cairo resources, libraries, tools and more",
               "children": [],
               "repo_info": {
@@ -675,7 +697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:29:27.574Z",
+    "last_updated": "2026-08-24T14:37:26.872Z",
     "original_repository": "auditless/awesome-cairo",
     "original_repository_id": 607753480,
     "original_repository_sha": "71e8081c80da93bd4c8d1bdc50111db20b712bf0",
