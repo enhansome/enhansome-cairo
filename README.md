@@ -25,8 +25,8 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## Libraries
 
-* [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) ⭐ 1,901 | 🐛 211 | 🌐 Rust | 📅 2026-08-25 - Built in Cairo 1.0 standard library
-* [`cairo-contracts`](https://github.com/OpenZeppelin/cairo-contracts/tree/cairo-1) ⭐ 910 | 🐛 58 | 🌐 Rust | 📅 2026-08-19 – OpenZeppelin's cairo1 development branch
+* [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) ⭐ 1,901 | 🐛 209 | 🌐 Rust | 📅 2026-08-25 - Built in Cairo 1.0 standard library
+* [`cairo-contracts`](https://github.com/OpenZeppelin/cairo-contracts/tree/cairo-1) ⭐ 910 | 🐛 35 | 🌐 Rust | 📅 2026-08-25 – OpenZeppelin's cairo1 development branch
 * [`alexandria`](https://github.com/keep-starknet-strange/alexandria) ⭐ 265 | 🐛 0 | 🌐 Cairo | 📅 2026-03-05 – Community maintained standard library for Cairo 1.0
 * [`orion`](https://github.com/gizatechxyz/orion) ⚠️ Archived - library for verifiable ML inference in Cairo 1.0
 * [`cubit`](https://github.com/influenceth/cubit) ⭐ 41 | 🐛 6 | 🌐 Rust | 📅 2026-07-16 – A fixed point math library in 64.64 representation built for Cairo 1.0
@@ -73,7 +73,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## References
 
-* [`starkware-libs/cairo/docs`](https://github.com/starkware-libs/cairo/tree/main/docs/reference) ⭐ 1,901 | 🐛 211 | 🌐 Rust | 📅 2026-08-25 – Official Cairo 1.0 reference
+* [`starkware-libs/cairo/docs`](https://github.com/starkware-libs/cairo/tree/main/docs/reference) ⭐ 1,901 | 🐛 209 | 🌐 Rust | 📅 2026-08-25 – Official Cairo 1.0 reference
 
 **[back to top](#contents)**
 
