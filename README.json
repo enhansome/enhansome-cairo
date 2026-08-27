@@ -12,10 +12,10 @@
             "archived": false,
             "id": 494059063,
             "language": "Rust",
-            "last_commit": "2026-08-25T21:30:05Z",
+            "last_commit": "2026-08-26T21:06:51Z",
             "owner": "starkware-libs",
             "repo": "cairo",
-            "stars": 1901
+            "stars": 1902
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 397755303,
             "language": "Rust",
-            "last_commit": "2026-08-25T15:01:08Z",
+            "last_commit": "2026-08-26T11:26:38Z",
             "owner": "OpenZeppelin",
             "repo": "cairo-contracts",
-            "stars": 910
+            "stars": 909
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-03-05T13:11:57Z",
             "owner": "keep-starknet-strange",
             "repo": "alexandria",
-            "stars": 265
+            "stars": 264
           }
         },
         {
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 600932680,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T21:24:23Z",
+            "last_commit": "2026-08-27T00:02:25Z",
             "owner": "BibliothecaDAO",
             "repo": "eternum",
             "stars": 91
@@ -534,7 +534,7 @@
             "last_commit": "2026-08-03T12:14:41Z",
             "owner": "cairo-book",
             "repo": "cairo-book",
-            "stars": 276
+            "stars": 275
           }
         },
         {
@@ -697,7 +697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:36:27.545Z",
+    "last_updated": "2026-08-27T00:38:19.283Z",
     "original_repository": "auditless/awesome-cairo",
     "original_repository_id": 607753480,
     "original_repository_sha": "71e8081c80da93bd4c8d1bdc50111db20b712bf0",
