@@ -12,11 +12,12 @@
             "archived": false,
             "id": 494059063,
             "language": "Rust",
-            "last_commit": "2026-08-27T09:34:15Z",
+            "last_commit": "2026-08-28T03:26:44Z",
             "owner": "starkware-libs",
             "repo": "cairo",
             "stars": 1902
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "OpenZeppelin",
             "repo": "cairo-contracts",
             "stars": 909
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "keep-starknet-strange",
             "repo": "alexandria",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "gizatechxyz",
             "repo": "orion",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "influenceth",
             "repo": "cubit",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "raphaelDkhn",
             "repo": "cairo_ml",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "reddio-com",
             "repo": "cairo",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "auditless",
             "repo": "suna",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "BibliothecaDAO",
             "repo": "arcade-account",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "franalgaba",
             "repo": "neural-network-cairo",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "milancermak",
             "repo": "graffiti",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "baitcode",
             "repo": "cairo-fixed-point-arithmetic",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         }
       ],
       "title": "Libraries"
@@ -202,7 +214,8 @@
             "owner": "keep-starknet-strange",
             "repo": "ziggy-starkdust",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "NethermindEth",
             "repo": "cairo-vm-go",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "kkrt-labs",
             "repo": "cairo-vm-ts",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "lambdaclass",
             "repo": "cairo-vm",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         }
       ],
       "title": "Cairo VM"
@@ -268,7 +284,8 @@
             "owner": "dojoengine",
             "repo": "dojo",
             "stars": 477
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "kkrt-labs",
             "repo": "kakarot-ssj",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -294,11 +312,12 @@
             "archived": false,
             "id": 600932680,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:07:03Z",
+            "last_commit": "2026-08-28T05:05:34Z",
             "owner": "BibliothecaDAO",
             "repo": "eternum",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "BibliothecaDAO",
             "repo": "loot-survivor",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "BibliothecaDAO",
             "repo": "InstaSwap",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "gaetbout",
             "repo": "starknet-commit-reveal",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "ruleslabs",
             "repo": "kass",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "CeliktepeMurat",
             "repo": "Cairo1.0_by_Examples",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "Kalzak",
             "repo": "RockPaperScissors-Cairo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "greged93",
             "repo": "2wrds_cntrcts",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         }
       ],
       "title": "Projects"
@@ -424,7 +450,8 @@
             "owner": "starknet-edu",
             "repo": "starknet-erc721",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "auditless",
             "repo": "cairo-template",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "starknet-edu",
             "repo": "starknet-erc20",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "enitrat",
             "repo": "cairo1-template",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "argentlabs",
             "repo": "starknet-build",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "enitrat",
             "repo": "cairo1-mocha",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         }
       ],
       "title": "Templates"
@@ -520,7 +552,8 @@
             "owner": "shramee",
             "repo": "starklings",
             "stars": 472
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "cairo-book",
             "repo": "cairo-book",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "starknet-edu",
             "repo": "deploy-cairo1-demo",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "horuslabsio",
             "repo": "Cairo1.0",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -580,7 +616,8 @@
             "owner": "NethermindEth",
             "repo": "0to1CairoDemo",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -595,7 +632,8 @@
             "owner": "omarespejel",
             "repo": "HERDAO-Cairo",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -610,7 +648,8 @@
             "owner": "FelixGibson",
             "repo": "starknet-accounts-cairo1",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         },
         {
           "node_type": "item",
@@ -625,7 +664,8 @@
             "owner": "Akashneelesh",
             "repo": "starklings-cairo1",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:16:01.436Z"
         }
       ],
       "title": "Tutorials"
@@ -648,7 +688,8 @@
                 "owner": "keep-starknet-strange",
                 "repo": "awesome-starknet",
                 "stars": 1551
-              }
+              },
+              "first_seen": "2026-08-28T05:16:01.436Z"
             }
           ],
           "description": null,
@@ -670,7 +711,8 @@
                 "owner": "beautyisourbusiness",
                 "repo": "cairo-goldmine",
                 "stars": 292
-              }
+              },
+              "first_seen": "2026-08-28T05:16:01.436Z"
             },
             {
               "node_type": "item",
@@ -685,7 +727,8 @@
                 "owner": "polyfact",
                 "repo": "cairo-resources-list",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T05:16:01.436Z"
             }
           ],
           "description": null,
@@ -697,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:16.557Z",
+    "last_updated": "2026-08-28T05:16:01.436Z",
     "original_repository_info": {
       "archived": false,
       "id": 607753480,
