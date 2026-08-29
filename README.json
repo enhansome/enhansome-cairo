@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cairo is the first Turing-complete language for creating provable programs for general computation.",
+            "homepage": null,
             "id": 494059063,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T02:23:21Z",
+            "open_issues": 207,
             "owner": "starkware-libs",
             "repo": "cairo",
-            "stars": 1902
+            "stars": 1902,
+            "topics": [
+              "cairo",
+              "computational-integrity",
+              "starknet",
+              "zero-knowledge-proofs",
+              "zkp"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -26,12 +37,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenZeppelin Contracts written in Cairo for Starknet, a decentralized ZK Rollup",
+            "homepage": "https://docs.openzeppelin.com/contracts-cairo",
             "id": 397755303,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:26:59Z",
+            "open_issues": 34,
             "owner": "OpenZeppelin",
             "repo": "cairo-contracts",
-            "stars": 909
+            "stars": 909,
+            "topics": [
+              "cairo",
+              "ethereum",
+              "security",
+              "smart-contracts",
+              "starknet"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -42,12 +64,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community maintained Cairo  libraries and set of well maintained, optimised and secure components.",
+            "homepage": null,
             "id": 570454258,
             "language": "Cairo",
+            "license": "MIT",
             "last_commit": "2026-03-05T13:11:57Z",
+            "open_issues": 0,
             "owner": "keep-starknet-strange",
             "repo": "alexandria",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "cairo-lang",
+              "libraries",
+              "zkp"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -58,12 +89,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ONNX Runtime in Cairo 1.0 for verifiable ML inference using STARK",
+            "homepage": "https://orion.gizatech.xyz",
             "id": 483991882,
             "language": "Cairo",
+            "license": "MIT",
             "last_commit": "2025-03-03T09:42:54Z",
+            "open_issues": 83,
             "owner": "gizatechxyz",
             "repo": "orion",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "cairo-lang",
+              "deep-learning",
+              "machine-learning",
+              "onnx",
+              "starknet",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -74,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 609631264,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-16T09:30:52Z",
+            "open_issues": 6,
             "owner": "influenceth",
             "repo": "cubit",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -90,12 +138,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Build neural network models in Cairo 1.0",
+            "homepage": null,
             "id": 611159159,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-04-30T19:22:42Z",
+            "open_issues": 0,
             "owner": "raphaelDkhn",
             "repo": "cairo_ml",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -106,12 +159,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smart Contract templates for Cairo",
+            "homepage": "https://www.reddio.com",
             "id": 610125964,
             "language": "Cairo",
+            "license": null,
             "last_commit": "2023-12-01T06:11:26Z",
+            "open_issues": 0,
             "owner": "reddio-com",
             "repo": "cairo",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "cairo",
+              "erc1155",
+              "erc20",
+              "erc721",
+              "nft-marketplace",
+              "nft-stake",
+              "smartcontracts"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -122,12 +188,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Typesafe opinionated abstractions for developing Cairo 1.0 smart contracts",
+            "homepage": null,
             "id": 611733702,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-06-12T10:08:15Z",
+            "open_issues": 4,
             "owner": "auditless",
             "repo": "suna",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "cairo",
+              "library",
+              "starknet"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -138,12 +213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 673163933,
             "language": "Cairo",
+            "license": "MIT",
             "last_commit": "2024-02-17T00:03:50Z",
+            "open_issues": 1,
             "owner": "BibliothecaDAO",
             "repo": "arcade-account",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -154,12 +234,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural Network implementation from scratch for MNIST using Cairo 1.0",
+            "homepage": null,
             "id": 609580044,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-04-01T15:55:53Z",
+            "open_issues": 0,
             "owner": "franalgaba",
             "repo": "neural-network-cairo",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "cairo-lang",
+              "machine-learning",
+              "starknet"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -170,12 +259,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Cairo library for building XML based documents",
+            "homepage": null,
             "id": 694743177,
             "language": "Cairo",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-27T23:20:48Z",
+            "open_issues": 0,
             "owner": "milancermak",
             "repo": "graffiti",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "cairo",
+              "html",
+              "starknet",
+              "svg",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -186,12 +286,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fixed Point Arithmetic type for Cairo smart contracts",
+            "homepage": "https://scarbs.xyz/packages/fp",
             "id": 914819148,
             "language": "Cairo",
+            "license": "MIT",
             "last_commit": "2025-02-12T09:11:12Z",
+            "open_issues": 0,
             "owner": "baitcode",
             "repo": "cairo-fixed-point-arithmetic",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "cairo",
+              "fixed-point",
+              "fixed-point-arithmetic",
+              "smart-contracts",
+              "starknet"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         }
@@ -208,12 +319,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ Cairo VM in Zig ⚡",
+            "homepage": "https://keep-starknet-strange.github.io/ziggy-starkdust/",
             "id": 696889411,
             "language": "Zig",
+            "license": "MIT",
             "last_commit": "2024-08-20T10:26:54Z",
+            "open_issues": 18,
             "owner": "keep-starknet-strange",
             "repo": "ziggy-starkdust",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "cairo",
+              "starknet",
+              "virtual-machine",
+              "zig",
+              "zig-lang"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -224,12 +346,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A virtual machine for Cairo written in Go",
+            "homepage": null,
             "id": 670695183,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-06-20T09:51:12Z",
+            "open_issues": 13,
             "owner": "NethermindEth",
             "repo": "cairo-vm-go",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "nubia"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -240,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A typescript implementation of the Cairo VM",
+            "homepage": null,
             "id": 692120267,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-07T15:25:10Z",
+            "open_issues": 15,
             "owner": "kkrt-labs",
             "repo": "cairo-vm-ts",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -256,12 +390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that a certain computation was executed correctly without the need for this party to re-execute the same program.",
+            "homepage": "https://lambdaclass.github.io/cairo-vm",
             "id": 1191947332,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-09T13:19:44Z",
+            "open_issues": 0,
             "owner": "lambdaclass",
             "repo": "cairo-vm",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         }
@@ -278,12 +417,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dojo is a toolchain for building provable games and applications",
+            "homepage": "https://dojoengine.org",
             "id": 587773121,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-06T22:57:12Z",
+            "open_issues": 19,
             "owner": "dojoengine",
             "repo": "dojo",
-            "stars": 477
+            "stars": 477,
+            "topics": [
+              "cairo",
+              "ecs",
+              "game-development",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -294,12 +443,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Kakarot zkEVM - rewrite in the latest version of Cairo",
+            "homepage": "https://www.kakarot.org",
             "id": 599607010,
             "language": "Cairo",
+            "license": "MIT",
             "last_commit": "2025-01-08T09:16:49Z",
+            "open_issues": 40,
             "owner": "kkrt-labs",
             "repo": "kakarot-ssj",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "cairo-lang",
+              "starknet",
+              "zero-knowledge-proofs",
+              "zkevm"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -310,12 +469,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "onchain eternal game",
+            "homepage": "https://blitz.realms.world",
             "id": 600932680,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T01:26:23Z",
+            "open_issues": 12,
             "owner": "BibliothecaDAO",
             "repo": "eternum",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "cairo",
+              "cairo-lang",
+              "dojo",
+              "game",
+              "onchain",
+              "web3",
+              "zk"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -326,12 +498,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Loot Survivor - onchain arcade ",
+            "homepage": "https://survivor.realms.world",
             "id": 620603234,
             "language": "Cairo",
+            "license": "MIT",
             "last_commit": "2024-08-07T23:10:11Z",
+            "open_issues": 3,
             "owner": "BibliothecaDAO",
             "repo": "loot-survivor",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "blockchain",
+              "cairo",
+              "cairo-lang",
+              "focg",
+              "onchain",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -342,12 +526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "InstaSwap - decentralized token swap protocol for ERC-1155 tokens on Starknet.",
+            "homepage": null,
             "id": 620127068,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-09T13:48:49Z",
+            "open_issues": 0,
             "owner": "BibliothecaDAO",
             "repo": "InstaSwap",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -358,12 +547,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 491170364,
             "language": "Cairo",
+            "license": null,
             "last_commit": "2023-11-01T13:23:48Z",
+            "open_issues": 0,
             "owner": "gaetbout",
             "repo": "starknet-commit-reveal",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -374,12 +568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪗 L1 <-> L2 Starknet ERC721 / ERC1155 Bridge",
+            "homepage": null,
             "id": 598048153,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2023-08-13T09:19:05Z",
+            "open_issues": 0,
             "owner": "ruleslabs",
             "repo": "kass",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -390,12 +589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo introduces a Boilerplate and examples for Cairo 1.0 smart contracts.",
+            "homepage": null,
             "id": 601018564,
             "language": "Cairo",
+            "license": "MIT",
             "last_commit": "2023-02-22T13:17:46Z",
+            "open_issues": 1,
             "owner": "CeliktepeMurat",
             "repo": "Cairo1.0_by_Examples",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -406,12 +610,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rock Paper Scissors with a commit-reveal scheme, written in Cairo1.0",
+            "homepage": null,
             "id": 617884562,
             "language": "Cairo",
+            "license": null,
             "last_commit": "2023-04-05T12:46:36Z",
+            "open_issues": 0,
             "owner": "Kalzak",
             "repo": "RockPaperScissors-Cairo",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -422,12 +631,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Cairo 1.0 contracts for the 2wrds project",
+            "homepage": null,
             "id": 622351168,
             "language": "Cairo",
+            "license": null,
             "last_commit": "2023-05-20T12:23:27Z",
+            "open_issues": 0,
             "owner": "greged93",
             "repo": "2wrds_cntrcts",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         }
@@ -444,12 +658,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Learn how to deploy and customize an ERC721 token on StarkNet",
+            "homepage": null,
             "id": 510788381,
             "language": "Cairo",
+            "license": null,
             "last_commit": "2023-09-12T12:38:38Z",
+            "open_issues": 4,
             "owner": "starknet-edu",
             "repo": "starknet-erc721",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "cairo",
+              "cairo-lang",
+              "erc721",
+              "starknet"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -460,12 +684,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal template for building smart contracts with Cairo 1.0",
+            "homepage": null,
             "id": 604675624,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-06-01T08:46:55Z",
+            "open_issues": 0,
             "owner": "auditless",
             "repo": "cairo-template",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "cairo-lang",
+              "starknet",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -476,12 +709,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Learn how to deploy and customize an ERC20 token on StarkNet",
+            "homepage": null,
             "id": 510788334,
             "language": "Cairo",
+            "license": null,
             "last_commit": "2023-09-12T12:38:47Z",
+            "open_issues": 5,
             "owner": "starknet-edu",
             "repo": "starknet-erc20",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "cairo",
+              "erc20"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -492,12 +733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 599578706,
             "language": "Cairo",
+            "license": null,
             "last_commit": "2023-04-04T10:02:30Z",
+            "open_issues": 0,
             "owner": "enitrat",
             "repo": "cairo1-template",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -508,12 +754,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 592312558,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-05-12T00:18:49Z",
+            "open_issues": 1,
             "owner": "argentlabs",
             "repo": "starknet-build",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -524,12 +775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 634680449,
             "language": "Cairo",
+            "license": null,
             "last_commit": "2023-05-02T15:23:22Z",
+            "open_issues": 0,
             "owner": "enitrat",
             "repo": "cairo1-mocha",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         }
@@ -546,12 +802,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive tutorial to get you up and running with Cairo v1 and Starknet",
+            "homepage": null,
             "id": 585492806,
             "language": "Cairo",
+            "license": "MIT",
             "last_commit": "2026-08-08T06:11:31Z",
+            "open_issues": 7,
             "owner": "shramee",
             "repo": "starklings",
-            "stars": 472
+            "stars": 472,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -562,12 +823,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Cairo Programming Language Book, a comprehensive documentation of the Cairo 1 programming language.",
+            "homepage": "https://book.cairo-lang.org/",
             "id": 620811586,
             "language": "Cairo",
+            "license": "MIT",
             "last_commit": "2026-08-03T12:14:41Z",
+            "open_issues": 13,
             "owner": "cairo-book",
             "repo": "cairo-book",
-            "stars": 275
+            "stars": 275,
+            "topics": [
+              "cairo",
+              "cairo-lang",
+              "documentation"
+            ]
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -578,12 +848,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 617381504,
             "language": "Cairo",
+            "license": null,
             "last_commit": "2023-03-30T09:39:49Z",
+            "open_issues": 5,
             "owner": "starknet-edu",
             "repo": "deploy-cairo1-demo",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -594,12 +869,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "mini-documentation for Cairo 1.0",
+            "homepage": null,
             "id": 623685972,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-08T02:04:19Z",
+            "open_issues": 0,
             "owner": "horuslabsio",
             "repo": "Cairo1.0",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -610,12 +890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo to upgrade your upgradeable cairo 0 proxy contract to cairo 1 via replace_class_syscall",
+            "homepage": null,
             "id": 618486644,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-05T10:10:30Z",
+            "open_issues": 3,
             "owner": "NethermindEth",
             "repo": "0to1CairoDemo",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -626,12 +911,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workshop for the HER DAO Global community",
+            "homepage": null,
             "id": 612295528,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-03-10T17:29:02Z",
+            "open_issues": 0,
             "owner": "omarespejel",
             "repo": "HERDAO-Cairo",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -642,12 +932,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn how to build and deploy StarkNet Accounts with Cairo v1",
+            "homepage": null,
             "id": 609099717,
             "language": "Cairo",
+            "license": null,
             "last_commit": "2023-03-21T14:23:46Z",
+            "open_issues": 0,
             "owner": "FelixGibson",
             "repo": "starknet-accounts-cairo1",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         },
@@ -658,12 +953,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive tutorial to get you up and running with Cairo v1 and Starknet",
+            "homepage": null,
             "id": 619268074,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-03-27T07:45:08Z",
+            "open_issues": 0,
             "owner": "Akashneelesh",
             "repo": "starklings-cairo1",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:16:01.436Z"
         }
@@ -682,12 +982,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome StarkNet resources, libraries, tools and more",
+                "homepage": null,
                 "id": 431089531,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-01-06T14:19:12Z",
+                "open_issues": 20,
                 "owner": "keep-starknet-strange",
                 "repo": "awesome-starknet",
-                "stars": 1551
+                "stars": 1551,
+                "topics": [
+                  "cairo",
+                  "cairo-lang",
+                  "layer2",
+                  "rollups",
+                  "scaling",
+                  "starknet",
+                  "starks",
+                  "starkware",
+                  "zkrollup",
+                  "zkstarks"
+                ]
               },
               "first_seen": "2026-08-28T05:16:01.436Z"
             }
@@ -705,12 +1021,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A COMPREHENSIVE, ANNOTATED LIST OF REPOSITORIES OF THE STARKNET ECOSYSTEM",
+                "homepage": null,
                 "id": 469521454,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-10-12T16:36:10Z",
+                "open_issues": 2,
                 "owner": "beautyisourbusiness",
                 "repo": "cairo-goldmine",
-                "stars": 292
+                "stars": 292,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:16:01.436Z"
             },
@@ -721,12 +1042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Cairo resources, libraries, tools and more.",
+                "homepage": null,
                 "id": 519215532,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2022-11-14T10:22:04Z",
+                "open_issues": 1,
                 "owner": "polyfact",
                 "repo": "cairo-resources-list",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:16:01.436Z"
             }
@@ -740,15 +1066,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:08:00.073Z",
+    "last_updated": "2026-08-29T04:55:36.083Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Resources for Cairo 1.0 development.",
+      "homepage": null,
       "id": 607753480,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-02-06T09:18:34Z",
+      "open_issues": 0,
       "owner": "auditless",
       "repo": "awesome-cairo",
-      "stars": 168
+      "stars": 168,
+      "topics": [
+        "awesome-list",
+        "cairo-lang",
+        "starknet",
+        "zkp"
+      ]
     },
     "original_repository_sha": "71e8081c80da93bd4c8d1bdc50111db20b712bf0",
     "enhanced_repository": "enhansome/enhansome-cairo",
