@@ -15,8 +15,8 @@
             "id": 494059063,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T02:23:21Z",
-            "open_issues": 207,
+            "last_commit": "2026-08-29T17:47:42Z",
+            "open_issues": 208,
             "owner": "starkware-libs",
             "repo": "cairo",
             "stars": 1902,
@@ -474,7 +474,7 @@
             "id": 600932680,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T01:26:23Z",
+            "last_commit": "2026-08-29T22:25:54Z",
             "open_issues": 12,
             "owner": "BibliothecaDAO",
             "repo": "eternum",
@@ -1066,7 +1066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:36.083Z",
+    "last_updated": "2026-08-29T23:13:11.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Cairo 1.0 development.",
