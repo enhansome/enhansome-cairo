@@ -15,7 +15,7 @@
             "id": 494059063,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T18:36:26Z",
+            "last_commit": "2026-09-07T22:52:16Z",
             "open_issues": 208,
             "owner": "starkware-libs",
             "repo": "cairo",
@@ -46,7 +46,7 @@
             "open_issues": 33,
             "owner": "OpenZeppelin",
             "repo": "cairo-contracts",
-            "stars": 909,
+            "stars": 908,
             "topics": [
               "cairo",
               "ethereum",
@@ -474,7 +474,7 @@
             "id": 600932680,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T21:56:24Z",
+            "last_commit": "2026-09-07T16:44:00Z",
             "open_issues": 11,
             "owner": "BibliothecaDAO",
             "repo": "eternum",
@@ -808,7 +808,7 @@
             "language": "Cairo",
             "license": "MIT",
             "last_commit": "2026-08-08T06:11:31Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "shramee",
             "repo": "starklings",
             "stars": 472,
@@ -991,7 +991,7 @@
                 "open_issues": 20,
                 "owner": "keep-starknet-strange",
                 "repo": "awesome-starknet",
-                "stars": 1551,
+                "stars": 1550,
                 "topics": [
                   "cairo",
                   "cairo-lang",
@@ -1030,7 +1030,7 @@
                 "open_issues": 2,
                 "owner": "beautyisourbusiness",
                 "repo": "cairo-goldmine",
-                "stars": 292,
+                "stars": 291,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:16:01.436Z"
@@ -1066,7 +1066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:51:30.575Z",
+    "last_updated": "2026-09-07T23:25:40.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Cairo 1.0 development.",
