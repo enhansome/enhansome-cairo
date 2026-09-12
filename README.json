@@ -15,8 +15,8 @@
             "id": 494059063,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T17:30:56Z",
-            "open_issues": 207,
+            "last_commit": "2026-09-12T22:56:33Z",
+            "open_issues": 210,
             "owner": "starkware-libs",
             "repo": "cairo",
             "stars": 1906,
@@ -426,7 +426,7 @@
             "open_issues": 18,
             "owner": "dojoengine",
             "repo": "dojo",
-            "stars": 477,
+            "stars": 478,
             "topics": [
               "cairo",
               "ecs",
@@ -474,8 +474,8 @@
             "id": 600932680,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T22:09:50Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-12T22:39:25Z",
+            "open_issues": 9,
             "owner": "BibliothecaDAO",
             "repo": "eternum",
             "stars": 92,
@@ -1066,7 +1066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:10:41.318Z",
+    "last_updated": "2026-09-12T22:57:01.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Cairo 1.0 development.",
