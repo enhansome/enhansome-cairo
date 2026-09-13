@@ -25,8 +25,8 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## Libraries
 
-* [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) ⭐ 1,906 | 🐛 210 | 🌐 Rust | 📅 2026-09-12 - Built in Cairo 1.0 standard library
-* [`cairo-contracts`](https://github.com/OpenZeppelin/cairo-contracts/tree/cairo-1) ⭐ 908 | 🐛 32 | 🌐 Rust | 📅 2026-09-10 – OpenZeppelin's cairo1 development branch
+* [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) ⭐ 1,905 | 🐛 210 | 🌐 Rust | 📅 2026-09-13 - Built in Cairo 1.0 standard library
+* [`cairo-contracts`](https://github.com/OpenZeppelin/cairo-contracts/tree/cairo-1) ⭐ 909 | 🐛 32 | 🌐 Rust | 📅 2026-09-10 – OpenZeppelin's cairo1 development branch
 * [`alexandria`](https://github.com/keep-starknet-strange/alexandria) ⭐ 264 | 🐛 0 | 🌐 Cairo | 📅 2026-03-05 – Community maintained standard library for Cairo 1.0
 * [`orion`](https://github.com/gizatechxyz/orion) ⚠️ Archived - library for verifiable ML inference in Cairo 1.0
 * [`cubit`](https://github.com/influenceth/cubit) ⭐ 41 | 🐛 6 | 🌐 Rust | 📅 2026-07-16 – A fixed point math library in 64.64 representation built for Cairo 1.0
@@ -57,7 +57,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 * [`dojo`](https://github.com/dojoengine/dojo) ⭐ 478 | 🐛 18 | 🌐 Rust | 📅 2026-05-06 – A full stack toolchain for developing onchain games in Cairo
 * [`kakarot-ssj`](https://github.com/sayajin-labs/kakarot-ssj) ⚠️ Archived – Kakarot ZK-EVM in Cairo 1.0
-* [`Realms: Eternum`](https://github.com/BibliothecaDAO/eternum) ⭐ 92 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-12 – Realms Autonomous World built with [`dojo`](https://github.com/dojoengine/dojo) ⭐ 478 | 🐛 18 | 🌐 Rust | 📅 2026-05-06
+* [`Realms: Eternum`](https://github.com/BibliothecaDAO/eternum) ⭐ 92 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-13 – Realms Autonomous World built with [`dojo`](https://github.com/dojoengine/dojo) ⭐ 478 | 🐛 18 | 🌐 Rust | 📅 2026-05-06
 * [`Loot Survivor`](https://github.com/BibliothecaDAO/loot-survivor) ⭐ 89 | 🐛 3 | 🌐 Cairo | 📅 2024-08-07 - Roguelike single felt onchain game
 * [`InstaSwap`](https://github.com/BibliothecaDAO/InstaSwap) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-09 – Decentralized token swap protocol for ERC-1155 tokens on Starknet.
 * [`starknet-commit-reveal`](https://github.com/gaetbout/starknet-commit-reveal) ⭐ 18 | 🐛 0 | 🌐 Cairo | 📅 2023-11-01 – Commit-reveal implementation
@@ -73,7 +73,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## References
 
-* [`starkware-libs/cairo/docs`](https://github.com/starkware-libs/cairo/tree/main/docs/reference) ⭐ 1,906 | 🐛 210 | 🌐 Rust | 📅 2026-09-12 – Official Cairo 1.0 reference
+* [`starkware-libs/cairo/docs`](https://github.com/starkware-libs/cairo/tree/main/docs/reference) ⭐ 1,905 | 🐛 210 | 🌐 Rust | 📅 2026-09-13 – Official Cairo 1.0 reference
 
 **[back to top](#contents)**
 
@@ -119,7 +119,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ### Starknet
 
-* [`awesome-starknet`](https://github.com/gakonst/awesome-starknet) ⭐ 1,550 | 🐛 21 | 📅 2025-01-06 A curated list of awesome Starknet resources, libraries, tools and more
+* [`awesome-starknet`](https://github.com/gakonst/awesome-starknet) ⭐ 1,551 | 🐛 21 | 📅 2025-01-06 A curated list of awesome Starknet resources, libraries, tools and more
 
 ### Cairo 0.x
 
@@ -135,4 +135,4 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
