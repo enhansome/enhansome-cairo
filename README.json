@@ -15,11 +15,11 @@
             "id": 494059063,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T23:49:06Z",
+            "last_commit": "2026-09-25T22:22:51Z",
             "open_issues": 210,
             "owner": "starkware-libs",
             "repo": "cairo",
-            "stars": 1906,
+            "stars": 1907,
             "topics": [
               "cairo",
               "computational-integrity",
@@ -474,7 +474,7 @@
             "id": 600932680,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T23:36:19Z",
+            "last_commit": "2026-09-25T23:16:32Z",
             "open_issues": 8,
             "owner": "BibliothecaDAO",
             "repo": "eternum",
@@ -1066,7 +1066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:50:28.862Z",
+    "last_updated": "2026-09-25T23:55:26.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Cairo 1.0 development.",
