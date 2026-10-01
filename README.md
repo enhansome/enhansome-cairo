@@ -25,8 +25,8 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## Libraries
 
-* [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) ⭐ 1,908 | 🐛 219 | 🌐 Rust | 📅 2026-09-30 - Built in Cairo 1.0 standard library
-* [`cairo-contracts`](https://github.com/OpenZeppelin/cairo-contracts/tree/cairo-1) ⭐ 909 | 🐛 33 | 🌐 Rust | 📅 2026-09-28 – OpenZeppelin's cairo1 development branch
+* [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) ⭐ 1,908 | 🐛 223 | 🌐 Rust | 📅 2026-09-30 - Built in Cairo 1.0 standard library
+* [`cairo-contracts`](https://github.com/OpenZeppelin/cairo-contracts/tree/cairo-1) ⭐ 909 | 🐛 35 | 🌐 Rust | 📅 2026-09-30 – OpenZeppelin's cairo1 development branch
 * [`alexandria`](https://github.com/keep-starknet-strange/alexandria) ⭐ 264 | 🐛 0 | 🌐 Cairo | 📅 2026-03-05 – Community maintained standard library for Cairo 1.0
 * [`orion`](https://github.com/gizatechxyz/orion) ⚠️ Archived - library for verifiable ML inference in Cairo 1.0
 * [`cubit`](https://github.com/influenceth/cubit) ⭐ 41 | 🐛 6 | 🌐 Rust | 📅 2026-07-16 – A fixed point math library in 64.64 representation built for Cairo 1.0
@@ -73,7 +73,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## References
 
-* [`starkware-libs/cairo/docs`](https://github.com/starkware-libs/cairo/tree/main/docs/reference) ⭐ 1,908 | 🐛 219 | 🌐 Rust | 📅 2026-09-30 – Official Cairo 1.0 reference
+* [`starkware-libs/cairo/docs`](https://github.com/starkware-libs/cairo/tree/main/docs/reference) ⭐ 1,908 | 🐛 223 | 🌐 Rust | 📅 2026-09-30 – Official Cairo 1.0 reference
 
 **[back to top](#contents)**
 
@@ -119,7 +119,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ### Starknet
 
-* [`awesome-starknet`](https://github.com/gakonst/awesome-starknet) ⭐ 1,552 | 🐛 21 | 📅 2025-01-06 A curated list of awesome Starknet resources, libraries, tools and more
+* [`awesome-starknet`](https://github.com/gakonst/awesome-starknet) ⭐ 1,551 | 🐛 21 | 📅 2025-01-06 A curated list of awesome Starknet resources, libraries, tools and more
 
 ### Cairo 0.x
 
@@ -135,4 +135,4 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
