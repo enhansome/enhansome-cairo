@@ -15,8 +15,8 @@
             "id": 494059063,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T00:57:01Z",
-            "open_issues": 219,
+            "last_commit": "2026-10-06T10:39:48Z",
+            "open_issues": 218,
             "owner": "starkware-libs",
             "repo": "cairo",
             "stars": 1909,
@@ -1066,7 +1066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:43:07.790Z",
+    "last_updated": "2026-10-06T10:51:32.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Cairo 1.0 development.",
