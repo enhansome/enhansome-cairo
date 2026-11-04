@@ -15,11 +15,11 @@
             "id": 494059063,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T00:55:25Z",
-            "open_issues": 217,
+            "last_commit": "2026-11-04T00:54:58Z",
+            "open_issues": 221,
             "owner": "starkware-libs",
             "repo": "cairo",
-            "stars": 1918,
+            "stars": 1920,
             "topics": [
               "cairo",
               "computational-integrity",
@@ -474,8 +474,8 @@
             "id": 600932680,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T00:12:38Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-03T23:29:37Z",
+            "open_issues": 5,
             "owner": "BibliothecaDAO",
             "repo": "eternum",
             "stars": 93,
@@ -506,7 +506,7 @@
             "open_issues": 3,
             "owner": "BibliothecaDAO",
             "repo": "loot-survivor",
-            "stars": 89,
+            "stars": 88,
             "topics": [
               "blockchain",
               "cairo",
@@ -827,7 +827,7 @@
             "id": 620811586,
             "language": "Cairo",
             "license": "MIT",
-            "last_commit": "2026-11-02T23:28:58Z",
+            "last_commit": "2026-11-03T19:51:38Z",
             "open_issues": 15,
             "owner": "cairo-book",
             "repo": "cairo-book",
@@ -1065,7 +1065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:52:08.653Z",
+    "last_updated": "2026-11-04T01:12:18.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Cairo 1.0 development.",
