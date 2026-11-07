@@ -57,7 +57,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 * [`dojo`](https://github.com/dojoengine/dojo) ⭐ 478 | 🐛 18 | 🌐 Rust | 📅 2026-05-06 – A full stack toolchain for developing onchain games in Cairo
 * [`kakarot-ssj`](https://github.com/sayajin-labs/kakarot-ssj) ⚠️ Archived – Kakarot ZK-EVM in Cairo 1.0
-* [`Realms: Eternum`](https://github.com/BibliothecaDAO/eternum) ⭐ 93 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-05 – Realms Autonomous World built with [`dojo`](https://github.com/dojoengine/dojo) ⭐ 478 | 🐛 18 | 🌐 Rust | 📅 2026-05-06
+* [`Realms: Eternum`](https://github.com/BibliothecaDAO/eternum) ⭐ 93 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-06 – Realms Autonomous World built with [`dojo`](https://github.com/dojoengine/dojo) ⭐ 478 | 🐛 18 | 🌐 Rust | 📅 2026-05-06
 * [`Loot Survivor`](https://github.com/BibliothecaDAO/loot-survivor) ⭐ 88 | 🐛 3 | 🌐 Cairo | 📅 2024-08-07 - Roguelike single felt onchain game
 * [`InstaSwap`](https://github.com/BibliothecaDAO/InstaSwap) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-09 – Decentralized token swap protocol for ERC-1155 tokens on Starknet.
 * [`starknet-commit-reveal`](https://github.com/gaetbout/starknet-commit-reveal) ⭐ 18 | 🐛 0 | 🌐 Cairo | 📅 2023-11-01 – Commit-reveal implementation
@@ -98,7 +98,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## Tutorials
 
-* [`starklings-cairo1`](https://github.com/shramee/starklings-cairo1) ⭐ 471 | 🐛 6 | 🌐 Cairo | 📅 2026-08-08 – An interactive tutorial to get you up and running with Cairo and Starknet
+* [`starklings-cairo1`](https://github.com/shramee/starklings-cairo1) ⭐ 470 | 🐛 6 | 🌐 Cairo | 📅 2026-08-08 – An interactive tutorial to get you up and running with Cairo and Starknet
 * [The Cairo Book](https://github.com/cairo-book/cairo-book.github.io) ⭐ 276 | 🐛 15 | 🌐 Cairo | 📅 2026-11-04 – The Cairo Programming Language Book
 * [`deploy-cairo1-demo`](https://github.com/starknet-edu/deploy-cairo1-demo) ⚠️ Archived – Official StarkWare tutorial for deploying a Cairo 1 contract
 * [`Cairo1.0`](https://github.com/Starknet-Africa-Edu/Cairo1.0) ⚠️ Archived – Mini Cairo 1.0 tutorial by Starknet Africa
@@ -135,4 +135,4 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
