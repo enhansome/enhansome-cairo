@@ -25,7 +25,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## Libraries
 
-* [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) ⭐ 1,923 | 🐛 169 | 🌐 Rust | 📅 2026-11-20 - Built in Cairo 1.0 standard library
+* [`corelib`](https://github.com/starkware-libs/cairo/tree/main/corelib/src) ⭐ 1,924 | 🐛 170 | 🌐 Rust | 📅 2026-11-21 - Built in Cairo 1.0 standard library
 * [`cairo-contracts`](https://github.com/OpenZeppelin/cairo-contracts/tree/cairo-1) ⭐ 907 | 🐛 36 | 🌐 Rust | 📅 2026-11-16 – OpenZeppelin's cairo1 development branch
 * [`alexandria`](https://github.com/keep-starknet-strange/alexandria) ⭐ 264 | 🐛 0 | 🌐 Cairo | 📅 2026-03-05 – Community maintained standard library for Cairo 1.0
 * [`orion`](https://github.com/gizatechxyz/orion) ⚠️ Archived - library for verifiable ML inference in Cairo 1.0
@@ -73,7 +73,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ## References
 
-* [`starkware-libs/cairo/docs`](https://github.com/starkware-libs/cairo/tree/main/docs/reference) ⭐ 1,923 | 🐛 169 | 🌐 Rust | 📅 2026-11-20 – Official Cairo 1.0 reference
+* [`starkware-libs/cairo/docs`](https://github.com/starkware-libs/cairo/tree/main/docs/reference) ⭐ 1,924 | 🐛 170 | 🌐 Rust | 📅 2026-11-21 – Official Cairo 1.0 reference
 
 **[back to top](#contents)**
 
@@ -99,7 +99,7 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 ## Tutorials
 
 * [`starklings-cairo1`](https://github.com/shramee/starklings-cairo1) ⭐ 470 | 🐛 6 | 🌐 Cairo | 📅 2026-08-08 – An interactive tutorial to get you up and running with Cairo and Starknet
-* [The Cairo Book](https://github.com/cairo-book/cairo-book.github.io) ⭐ 277 | 🐛 14 | 🌐 Cairo | 📅 2026-11-07 – The Cairo Programming Language Book
+* [The Cairo Book](https://github.com/cairo-book/cairo-book.github.io) ⭐ 277 | 🐛 15 | 🌐 Cairo | 📅 2026-11-07 – The Cairo Programming Language Book
 * [`deploy-cairo1-demo`](https://github.com/starknet-edu/deploy-cairo1-demo) ⚠️ Archived – Official StarkWare tutorial for deploying a Cairo 1 contract
 * [`Cairo1.0`](https://github.com/Starknet-Africa-Edu/Cairo1.0) ⚠️ Archived – Mini Cairo 1.0 tutorial by Starknet Africa
 * [`0to1CairoDemo`](https://github.com/NethermindEth/0to1CairoDemo) ⚠️ Archived – Steps to upgrade from cairo 0 upgradeable contract to cairo 1 upgradeable contract
@@ -135,4 +135,4 @@ Other Starknet/Cairo related lists: [Other lists](#other-lists)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

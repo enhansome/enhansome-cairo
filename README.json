@@ -15,11 +15,11 @@
             "id": 494059063,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T02:07:44Z",
-            "open_issues": 169,
+            "last_commit": "2026-11-21T01:52:41Z",
+            "open_issues": 170,
             "owner": "starkware-libs",
             "repo": "cairo",
-            "stars": 1923,
+            "stars": 1924,
             "topics": [
               "cairo",
               "computational-integrity",
@@ -452,7 +452,7 @@
             "open_issues": 40,
             "owner": "kkrt-labs",
             "repo": "kakarot-ssj",
-            "stars": 132,
+            "stars": 131,
             "topics": [
               "cairo-lang",
               "starknet",
@@ -474,7 +474,7 @@
             "id": 600932680,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T01:31:49Z",
+            "last_commit": "2026-11-20T19:18:29Z",
             "open_issues": 26,
             "owner": "BibliothecaDAO",
             "repo": "eternum",
@@ -828,7 +828,7 @@
             "language": "Cairo",
             "license": "MIT",
             "last_commit": "2026-11-07T18:46:38Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "cairo-book",
             "repo": "cairo-book",
             "stars": 277,
@@ -1065,7 +1065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T02:13:29.201Z",
+    "last_updated": "2026-11-21T02:05:12.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Cairo 1.0 development.",
