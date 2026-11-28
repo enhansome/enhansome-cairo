@@ -15,11 +15,11 @@
             "id": 494059063,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T03:15:20Z",
+            "last_commit": "2026-11-28T03:04:29Z",
             "open_issues": 171,
             "owner": "starkware-libs",
             "repo": "cairo",
-            "stars": 1924,
+            "stars": 1926,
             "topics": [
               "cairo",
               "computational-integrity",
@@ -43,7 +43,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-25T16:32:41Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "OpenZeppelin",
             "repo": "cairo-contracts",
             "stars": 907,
@@ -352,7 +352,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2025-06-20T09:51:12Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "NethermindEth",
             "repo": "cairo-vm-go",
             "stars": 85,
@@ -474,8 +474,8 @@
             "id": 600932680,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-27T02:26:10Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-28T03:09:35Z",
+            "open_issues": 26,
             "owner": "BibliothecaDAO",
             "repo": "eternum",
             "stars": 93,
@@ -990,7 +990,7 @@
                 "open_issues": 23,
                 "owner": "keep-starknet-strange",
                 "repo": "awesome-starknet",
-                "stars": 1548,
+                "stars": 1547,
                 "topics": [
                   "cairo",
                   "cairo-lang",
@@ -1033,27 +1033,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T05:16:01.436Z"
-            },
-            {
-              "node_type": "item",
-              "title": "cairo-resources-list",
-              "description": "A curated list of awesome Cairo resources, libraries, tools and more",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Cairo resources, libraries, tools and more.",
-                "homepage": null,
-                "id": 519215532,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2022-11-14T10:22:04Z",
-                "open_issues": 1,
-                "owner": "polyfact",
-                "repo": "cairo-resources-list",
-                "stars": 66,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:16:01.436Z"
             }
           ],
           "description": null,
@@ -1065,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:34:52.972Z",
+    "last_updated": "2026-11-28T03:12:36.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Cairo 1.0 development.",
